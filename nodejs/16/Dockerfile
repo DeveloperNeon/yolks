@@ -1,4 +1,4 @@
-FROM        --platform=$TARGETOS/$TARGETARCH node:16.13.2-alpine
+FROM        --platform=$TARGETOS/$TARGETARCH node:16.13.2
 
 LABEL       author="Michael Parker" maintainer="parker@pterodactyl.io"
 
